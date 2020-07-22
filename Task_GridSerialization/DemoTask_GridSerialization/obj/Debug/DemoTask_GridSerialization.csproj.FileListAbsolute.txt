@@ -1,0 +1,11 @@
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\bin\Debug\DemoTask_GridSerialization.exe.config
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\bin\Debug\DemoTask_GridSerialization.exe
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\bin\Debug\DemoTask_GridSerialization.pdb
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.csprojAssemblyReference.cache
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.MainForm.resources
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.AddForm.resources
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.Properties.Resources.resources
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.csproj.GenerateResource.cache
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.exe
+C:\Users\Mubashir Siddique\source\repos\DemoTask_GridSerialization\DemoTask_GridSerialization\obj\Debug\DemoTask_GridSerialization.pdb
